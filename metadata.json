@@ -1,0 +1,5 @@
+{
+  "name": "Procore Network Data Extractor",
+  "description": "An AI-powered tool to parse Procore Network listings, extract company contact details, and generate custom Python scrapers for large-scale data harvesting.",
+  "requestFramePermissions": []
+}
